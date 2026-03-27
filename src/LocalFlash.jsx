@@ -2199,4 +2199,3 @@ export default function App() {
     </AppProvider>
   );
 }
-export default LocalFlash;
